@@ -2,4 +2,5 @@
 <resources>
     <string name="app_name">Test  Flag</string>
     <string name="polecenie">Choose colors, which does not exist in polish flag</string>
+    <string name="ostrzezenie">this is not the corect color</string>
 </resources>
